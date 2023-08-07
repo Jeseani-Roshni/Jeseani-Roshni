@@ -4,7 +4,11 @@
 - I'm working :
   -  On my fullstack skills
   -  On my fronthand projects
-  -  On my DSA 
+  -  On my DSA
+    📫 How to reach me: 
+  [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/RoshniJeswani2)
+
+---
 
 <!--
 **Jeseani-Roshni/Jeseani-Roshni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,4 +53,4 @@ Here are some ideas to get you started:
   console.log(fname + lname);
   ```-->
 
--->
+
