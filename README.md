@@ -5,9 +5,9 @@
   -  On my fullstack skills
   -  On my fronthand projects
   -  On my DSA
-    📫 How to reach me: 
-  [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/RoshniJeswani2)
-
+  - 📫 How to reach me: 
+ [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/RoshniJeswani2)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeseani-Roshni&show_icons=true&theme=radical)
 ---
 
 <!--
