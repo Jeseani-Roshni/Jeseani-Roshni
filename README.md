@@ -6,10 +6,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeseani-roshni" alt="jeseani-roshni" /></a> </p> -->
 
-- 🌱 I’m currently doing 
-  -  CS-50 course
-  -  React course
-  -  fronthand projects
+- 🌱 Full stack dev creating smooth, modern, and motion-rich digital experiences.
     
 
 - 💬 Ask me about **HTML, CSS, JS, C**
